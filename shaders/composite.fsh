@@ -3,7 +3,7 @@
 #define goalHue 40.0 // the desired hue to display [0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 220 230 240 250 260 270 280 290 300 310 320 330 340 350]
 #define wiggle 20 // wiggle room [0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 220 230 240 250 260 270 280 290 300 310 320 330 340 350]
 // #define effect 1 // To blacken the background, select "1". To greyscale the background, select "0" [0 1]
-#define BLACKEN // Whether or not to blackent the background
+//#define BLACKEN // Whether or not to blackent the background
 
 uniform sampler2D gcolor;
 
